@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  openhands:
+    image: openhands/openhands
+    ports:
+      - "80:80"
